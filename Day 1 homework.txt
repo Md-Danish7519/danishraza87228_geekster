@@ -1,0 +1,41 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+        
+            //Q1
+            System.out.println("Hello I am enjoying coding");
+        //Q2
+            System.out.println("Hello\nI\nam\nenjoying\ncoding");
+        //Q3
+           System.out.println(100+8+3);
+           System.out.println(100*8*3);
+        //Q4
+           System.out.println("*****");
+           System.out.println("*****");
+           System.out.println("*****");
+           System.out.println("*****");
+           System.out.println("*****");
+        //Q5
+         System.out.println("**");
+        System.out.println("**");
+        System.out.println("**");
+        System.out.println("**");
+        System.out.println("**");
+        System.out.println("****");
+          //Q6
+        int num = 987653;
+        System.out.println(num%10);
+        //Q7
+        int m = 15;
+        int n = 4;
+        System.out.println(m+n);
+        System.out.println(m-n);
+        System.out.println(m*n);
+          
+      
+        
+            
+            
+          
+    }
+}
